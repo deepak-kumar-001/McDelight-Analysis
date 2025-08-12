@@ -22,8 +22,8 @@ python app.py
 
 ---
 
-### 🛠 Owner Dashboard
-![Owner Dashboard](screenshots/owner_dashboard.png)
+### 🛠 Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.png)
 
 ---
 
