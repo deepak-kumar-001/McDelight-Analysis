@@ -14,7 +14,7 @@ Python | Tkinter | Pandas | Matplotlib | PIL | CSV
 ```bash
 pip install pandas matplotlib pillow
 python app.py
-
+```
 ## 📸 Screenshots
 
 ### 🔐 Lock Screen
