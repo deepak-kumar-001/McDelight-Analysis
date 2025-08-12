@@ -14,3 +14,28 @@ Python | Tkinter | Pandas | Matplotlib | PIL | CSV
 ```bash
 pip install pandas matplotlib pillow
 python app.py
+
+## 📸 Screenshots
+
+### 🔐 Lock Screen
+![Lock Screen](screenshots/login_screen.png)
+
+---
+
+### 🛠 Owner Dashboard
+![Owner Dashboard](screenshots/owner_dashboard.png)
+
+---
+
+### 👤 Customer Dashboard
+![Customer Dashboard](screenshots/customer_dashboard.png)
+
+---
+
+### 📊 Analytics & Reports
+
+#### Sales Vs Time Of Day
+![Sales Trend Graph](screenshots/sales_vs_time_of_day.png)
+
+#### Nutrition Consumption Per Visit
+![Nutrition Consumption](screenshots/nutrition_consumption_per_visit.png)
